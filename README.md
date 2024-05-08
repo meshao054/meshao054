@@ -2,7 +2,7 @@
 - 👀 I’m interested in  software engineering and development 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on  software projects
-- 📫 How to reach me email @amasameshack@gmail.com
+- 📫 How to reach me email
 
 <!---
 meshao054/meshao054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
